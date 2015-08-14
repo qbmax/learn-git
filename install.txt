@@ -1,2 +1,5 @@
 Theses are the install instructions.
 
+Step 1: Open the registry
+Step 2: Locate the key matching "ALOHA FRED"
+
